@@ -1,0 +1,14 @@
+{
+  "name": "namsthe",
+  "version": "1.0.0",
+  "description": "this namsthe react by shanu",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "shanu",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  }
+}
